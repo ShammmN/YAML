@@ -1,0 +1,10 @@
+#Creating a basic YAML file
+project_name: score-system
+author: Sham Nemer
+version: 1
+python_version: "3.11"
+production_ready: false
+tags:
+- pytest
+- ci
+- extra
